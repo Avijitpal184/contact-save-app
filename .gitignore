@@ -1,0 +1,32 @@
+# Firebase local files and logs
+firebase-debug.log
+.firebaserc
+.firebase/
+.firebasecache/
+
+# Vite build output
+dist/
+
+# Node dependencies
+node_modules/
+
+# Local env variables
+.env
+.env.local
+
+# macOS + IDE clutter
+.DS_Store
+.idea/
+.vscode/*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Lock files and debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
